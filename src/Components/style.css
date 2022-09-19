@@ -1,0 +1,224 @@
+.main{
+    height:50px;
+    background-color:#2d325c;
+    color: rgb(117, 22, 22);
+    padding-bottom:30px;
+    padding-top: 10px;
+}
+
+.fdvi{
+    background-image: linear-gradient(#B1E1FF,#FFB3B3,#F1F1F1);
+    height:700px;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-around;
+}
+
+.home{
+    color: rgb(247, 213, 213);
+    font-family: cursive;
+    font-size: 40px;
+    text-decoration: none;
+}
+.home:hover{
+    color: #db7cd6;
+}
+
+.student{
+    color: white;
+    font-family: cursive;
+    font-size: 40px;
+    text-decoration: none;
+}
+.student:hover{
+    color: #F07DEA;
+}
+
+.contact{
+    color: white;
+    font-family: cursive;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.contact:hover{
+    color: #de78d9;
+}
+
+.first{
+    margin-left: 4vw;
+    margin-top: 4vw;
+    font-size: 25px;
+}
+
+
+.third{
+    margin-left: 4vw;
+    margin-top: 4vw;
+    font-size: 25px;
+}
+
+.ttb{
+    background-image: linear-gradient(#B1E1FF,#FFB3B3,#F1F1F1);  
+    padding-top: 2vw;
+    height:700px;
+
+}
+
+.secpage{
+    display: flex;  
+    margin-left: 6vw;
+    margin-top: 3vw;
+    font-size:20px;
+    font-family: 'Bungee Inline'; 
+}
+
+
+.but1{
+    height:50px;
+    width:250px;
+    margin-left:47vw;
+    margin-top:2vw;
+    border-radius:25px;
+    border: 2px solid black;
+    font-size:25px;
+    background-color:lightskyblue;
+}
+.but1:hover{
+    background-color:rgb(0, 255, 191);
+}
+
+.hoome{
+    background-image: linear-gradient(#B1E1FF,#FFB3B3,#F1F1F1);
+    height:700px;   
+    padding-top: 2vw;
+}
+
+
+.contt{
+    background-image: linear-gradient(#B1E1FF,#FFB3B3,#F1F1F1);
+    height:700px;   
+    padding-top: 2vw;
+}
+
+.table{
+    margin: auto;
+    border:1px solid;
+    width:40%;
+    height:60px;
+    margin-top: 4vw;
+}
+
+table, th, td,tr {
+    border: 1px solid black;
+    border-collapse:collapse;
+    background-color:#9BA3EB;
+}
+
+.name{
+    margin-left:15vw;
+    position: absolute;
+    top:16.5vw;
+    font-size:25px;
+    color:blue;
+}
+.input1{
+    width:260px;
+    height:40px;
+    border-radius:40px;
+    border: none;
+    background-color: lightskyblue;
+    border: 1px solid rgba(0, 0, 255, 0.865);
+    margin-top: 10vw;
+    margin-left:20vw;
+    text-align: center;
+}
+
+.age{
+    margin-left: 10vw;
+    font-size:25px;
+    color:blue;
+}
+
+.input2{
+    width:270px;
+    height:40px;
+    border-radius:40px;
+    border: none;
+    background-color: rgb(167, 202, 224);
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.course{
+    margin-left:14.7vw;
+    font-size:25px;
+    color:blue;
+    position: absolute;
+    top:26vw;
+}
+
+.input3{
+    width:250px;
+    height:40px;
+    border-radius:40px;
+    border: none;
+    background-color: lightskyblue;
+    border: 1px solid blue;
+    margin-top:6.5vw;
+    margin-left:21vw;
+    text-align: center;
+}
+
+.batch{
+    margin-left: 10vw;
+    font-size:25px;
+    color:blue;
+}
+
+.input4{
+    width:250px;
+    height:40px;
+    border-radius:40px;
+    border: none;
+    background-color: lightskyblue;
+    border: 1px solid blue;
+    margin-top: -1vw;
+    text-align: center;
+}
+
+.cancelBut{
+    width:160px;
+    height:40px;
+    border-radius: 20px;
+    border: none;
+    background-color: grey;
+    font-size: 20px;
+    margin-left:60vw;
+    margin-top:5vw;
+    border: 1px solid black;
+}
+
+.sucessBut{
+    width:160px;
+    height:40px;
+    border-radius: 20px;
+    border: none;
+    background-color:white;
+    font-size: 20px;
+    position: absolute;
+    right:15vw;
+    bottom:13vw;
+    border: 1px solid black;
+}
+
+.editBut{
+    border: none;
+    background:none;
+    text-decoration: underline;
+    font-size:18px;
+    color: blue;
+}
+
